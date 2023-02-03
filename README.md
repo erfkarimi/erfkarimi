@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋 and welcome
+I'm Erfan Karimi <br>
+### What I do
+- Flutter development
+- Go developemnt
+
+### What is my OS
+My OS is [Fedora](https://getfedora.org) 
 
 <!--
 **erfkarimi/erfkarimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
