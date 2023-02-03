@@ -2,10 +2,16 @@
 I'm Erfan Karimi <br>
 ### What I do
 - Flutter development
-- Go developemnt
+- Go developmnt
+
+### Programming languages that I know
+- Dart
+- Go
+- Python
+- C++
 
 ### What is my OS
-My OS is [Fedora](https://getfedora.org) 
+Using [Fedora 37](https://getfedora.org) as my main OS
 
 <!--
 **erfkarimi/erfkarimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
