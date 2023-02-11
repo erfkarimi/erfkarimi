@@ -4,7 +4,7 @@ I'm Erfan Karimi <br>
 - Flutter development
 - Go development
 
-### Programming languages that I know
+### Programming languages I know
 - Dart
 - Go
 - Python
