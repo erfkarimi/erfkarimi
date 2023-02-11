@@ -2,7 +2,7 @@
 I'm Erfan Karimi <br>
 ### What I do
 - Flutter development
-- Go developmnt
+- Go development
 
 ### Programming languages that I know
 - Dart
