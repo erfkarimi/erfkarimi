@@ -1,10 +1,9 @@
-### Hello 👋
-I'm Erfan Karimi <br>
-### What I do
-- Flutter development
-- Go development
+### Hello 👋 and welcome
+### I'm a 
+- Flutter developer
+- Go developer
 
-### Programming languages I know
+### I know
 - Dart
 - Go
 - Python
