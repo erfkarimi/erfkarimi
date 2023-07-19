@@ -9,9 +9,6 @@
 - Python
 - C++
 
-### What is my OS
-[Fedora 37](https://getfedora.org)
-
 <!--
 **erfkarimi/erfkarimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
