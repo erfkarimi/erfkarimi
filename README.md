@@ -2,12 +2,12 @@
 * Computer scientist
 * Flutter developer
 * Go developer
-* Programming languages
+* Also I know
     * Dart
     * Go
     * Python
     * C++
-* Interested in
+* And interested in
     * GNU/Linux
     * Open source
     * Artificial intelligence
